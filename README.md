@@ -23,7 +23,8 @@ in all likelyhood) it will be slow because buzzwords like "pipelineing",
 Tools?
 ======
 
-Sigasi and Icarus Verilog for now. The list might grow.
+The play is to use Sigasi and Icarus Verilog for now. The list might grow. But MyHDL is also
+an option, I like Python a lot. 
 
 Legalese?
 =========
