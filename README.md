@@ -23,8 +23,10 @@ in all likelyhood) it will be slow because buzzwords like "pipelineing",
 Tools?
 ======
 
-The play is to use Eclipse/VEditor and Icarus Verilog for now. The list might grow. But MyHDL is also
-an option, I like Python a lot. 
+- (GNU) make
+- Icarus Verilog
+- MyHDL with the Icarus VPI installed
+- Any editor (Eclipse with VEditor and Python IDE installed would work nice)
 
 Legalese?
 =========
