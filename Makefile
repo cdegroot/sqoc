@@ -15,3 +15,6 @@ clean:
 	
 run: $(BINARY)
 	$<
+
+test: $(BINARY)
+	python src/main_tb.py
